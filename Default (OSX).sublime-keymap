@@ -1,4 +1,4 @@
 [{
-  "keys": ["super+alt+ctrl+v"],
+  "keys": ["ctrl+shift+v"],
   "command": "repeater"
 }]
