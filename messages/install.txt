@@ -1,0 +1,4 @@
+PasteRepeater Successfully Installed!
+
+- Repo: https://github.com/philsinatra/SublimePasteRepeater
+- Contact/issues: https://github.com/philsinatra/SublimePasteRepeater/issues

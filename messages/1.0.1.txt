@@ -1,0 +1,5 @@
+PasteRepeater Patch Update
+
+Dialog box preview text is now hidden when inputting repeat count.
+
+Thanks to @Kristinita (https://github.com/Kristinita) for pointing out a minor UI issue on smaller screens.
