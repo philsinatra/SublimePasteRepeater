@@ -1,6 +1,6 @@
-[![GitHub tag](https://img.shields.io/github/tag/philsinatra/SublimePasteRepeater.svg?style=flat-square)]()
-[![Package Control](https://img.shields.io/packagecontrol/dt/PasteRepeater.svg?style=flat-square)]()
-[![license](https://img.shields.io/github/license/philsinatra/SublimePasteRepeater.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/philsinatra/SublimePasteRepeater.svg?style=flat-square)](https://github.com/philsinatra/SublimePasteRepeater)
+[![Package Control](https://img.shields.io/packagecontrol/dt/PasteRepeater.svg?style=flat-square)](https://packagecontrol.io/packages/PasteRepeater)
+[![license](https://img.shields.io/github/license/philsinatra/SublimePasteRepeater.svg?style=flat-square)](https://github.com/philsinatra/SublimePasteRepeater/blob/master/LICENSE.md)
 
 # Paste Repeater
 
