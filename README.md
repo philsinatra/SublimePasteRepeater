@@ -1,3 +1,7 @@
+[![GitHub tag](https://img.shields.io/github/tag/philsinatra/SublimePasteRepeater.svg?style=flat-square)]()
+[![Package Control](https://img.shields.io/packagecontrol/dt/PasteRepeater.svg?style=flat-square)]()
+[![license](https://img.shields.io/github/license/philsinatra/SublimePasteRepeater.svg?style=flat-square)]()
+
 # Paste Repeater
 
 ## About

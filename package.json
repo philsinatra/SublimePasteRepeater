@@ -1,0 +1,15 @@
+{
+  "name": "SublimePasteRepeater",
+  "description": "Sublime Text plugin for pasting your clipboard multiple times",
+  "version":"1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:philsinatra/SublimePasteRepeater.git"
+  },
+  "author": "Phil Sinatra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philsinatra/SublimePasteRepeater/issues"
+  },
+  "homepage": "https://github.com/philsinatra/SublimePasteRepeater"
+}
